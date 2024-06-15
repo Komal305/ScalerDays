@@ -2,7 +2,7 @@ package javaBitManipulation2;
 
 import java.util.Arrays;
 
-public class MinXORvalue {
+public class AQ2MinXORvalue {
 
 	public static void main(String[] args) {
 		int[] A= {0, 2, 5, 7};

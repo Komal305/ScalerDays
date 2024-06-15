@@ -1,6 +1,6 @@
 package javaBitManipulation2;
 
-public class SingleNumber {
+public class Q1SingleNumber {
 public static void main(String[] args) {
 	int[] A= {1,2,2};
 	 int r=0;

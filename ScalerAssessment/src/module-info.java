@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author komrani
- *
- */
-module ScalerAssessment {
-}

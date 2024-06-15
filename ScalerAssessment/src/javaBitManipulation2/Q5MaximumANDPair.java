@@ -1,6 +1,6 @@
 package javaBitManipulation2;
 
-public class MaximumANDPair {
+public class Q5MaximumANDPair {
 public static void main(String[] args) {
 	int[] A = {53, 39, 88};
 	int ans=0;
